@@ -2,7 +2,7 @@
 
 <!-- Autor:Joao Martini Data:22/07/2025 -->
 
-## Descrição:   Este repositório contém os scripts e as configurações para empacotar o aplicativo **MCTest** em um pacote Debian (`.deb`), usando a ferramenta FPM (Effing Package Management). O objetivo é transformar um processo de instalação que era manual e complexo em uma experiência simples, integrada ao sistema e automatizada.
+## Este repositório contém os scripts e as configurações para empacotar o aplicativo **MCTest** em um pacote Debian (`.deb`), usando a ferramenta FPM (Effing Package Management). O objetivo é transformar um processo de instalação que era manual e complexo em uma experiência simples, integrada ao sistema e automatizada.
 
 ## Visão Geral
 
