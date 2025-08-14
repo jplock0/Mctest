@@ -116,6 +116,12 @@ fpm -s dir -t deb -n mctest -v 5.3 \
     --before-remove debian/prerm \
     --after-remove debian/postrm \
     --verbose \
+    --url "http://mctest.ufabc.edu.br" \
+    --description "MCTest é um sofware livre e de código aberto (veja Licença) e sua melhor vantagem é o tratamento de questões paramétricas através do LaTeX e Python, permitindo variações infinitas de cada questão.
+
+Documentação: https://github.com/fzampirolli/mctest
+Página de Ajuda: http://mctest.ufabc.edu.br/readme
+Mais exemplos: http://vision.ufabc.edu.br" \
     --depends "python3" \
     --depends "python3-dev" \
     --depends "python3-pip" \
